@@ -1,0 +1,12 @@
+sentence-transformers>=5.7
+torch>=2.14
+transformers>=5.16
+scikit-learn>=1.9
+numpy>=2.5
+pandas>=3.0
+scipy>=1.18
+langchain-text-splitters>=1.1
+streamlit>=1.63
+plotly>=7.1
+matplotlib>=3.11
+jupyter

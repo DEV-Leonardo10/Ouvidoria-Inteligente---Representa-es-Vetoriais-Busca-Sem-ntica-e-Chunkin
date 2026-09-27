@@ -1,0 +1,19 @@
+{
+  "descricao": "Gabarito de duplicatas semânticas do manifestacoes.json. Cada par descreve o MESMO problema no MESMO local com palavras diferentes. 'falsos_amigos' são pares propositalmente parecidos (mesmo tipo de problema, local ou natureza diferente) que NÃO são duplicatas — servem para medir falsos positivos.",
+  "duplicatas": [
+    {"par": ["M003", "M017"], "tema": "buraco na Av. Brasil (em frente à padaria)"},
+    {"par": ["M005", "M026"], "tema": "iluminação apagada na Rua das Acácias"},
+    {"par": ["M008", "M022"], "tema": "posto de saúde/PSF do São José sem médico"},
+    {"par": ["M010", "M029"], "tema": "uso e tráfico de drogas na Praça Tiradentes"},
+    {"par": ["M012", "M033"], "tema": "som alto do bar da Rua Sete de Setembro"},
+    {"par": ["M019", "M038"], "tema": "transporte escolar da zona rural não passa"}
+  ],
+  "falsos_amigos": [
+    {"par": ["M003", "M025"], "motivo": "ambos são buracos, mas em ruas diferentes"},
+    {"par": ["M005", "M031"], "motivo": "ambos são iluminação apagada, mas em locais diferentes"},
+    {"par": ["M026", "M031"], "motivo": "ambos são iluminação apagada, mas em locais diferentes"},
+    {"par": ["M010", "M021"], "motivo": "ambos envolvem drogas, mas locais diferentes"},
+    {"par": ["M008", "M018"], "motivo": "ambos são falta de atendimento médico, mas problemas distintos (clínico x especialista)"},
+    {"par": ["M037", "M024"], "motivo": "ambos citam foco de dengue, mas denúncias diferentes"}
+  ]
+}

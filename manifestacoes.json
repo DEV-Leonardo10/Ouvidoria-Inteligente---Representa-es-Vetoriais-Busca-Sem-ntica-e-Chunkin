@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-06-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada da Rua XV de Novembro, entre a farmácia e o banco, está toda quebrada e com raízes expostas. Minha mãe tropeçou e machucou o joelho. Pedimos conserto urgente."
+  },
+  {
+    "id": "M002",
+    "data": "2026-06-03",
+    "categoria_oficial": "saúde",
+    "texto": "Há três semanas não tem losartana nem metformina na farmácia da unidade básica do Jardim América. Sou hipertenso e diabético e não tenho condições de comprar os remédios."
+  },
+  {
+    "id": "M003",
+    "data": "2026-06-04",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Tem um buraco enorme na Av. Brasil, em frente à padaria do número 1200. Só essa semana já vi dois motoqueiros caindo por causa dele. Alguém vai morrer ali."
+  },
+  {
+    "id": "M004",
+    "data": "2026-06-05",
+    "categoria_oficial": "educação",
+    "texto": "Meu filho estuda na Escola Municipal Monteiro Lobato e está há duas semanas sem merenda. As crianças voltam para casa com fome e a direção diz que o fornecedor não entregou."
+  },
+  {
+    "id": "M005",
+    "data": "2026-06-06",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Poste apagado na Rua das Acácias, perto do número 85, faz quinze dias. A rua fica completamente escura e os moradores têm medo de sair à noite."
+  },
+  {
+    "id": "M006",
+    "data": "2026-06-08",
+    "categoria_oficial": "saúde",
+    "texto": "Quero registrar uma reclamação grave sobre a UPA do Centro. No sábado levei minha mãe, de 78 anos, com febre alta e falta de ar, e esperamos mais de sete horas pelo atendimento. Na recepção disseram que havia apenas um clínico geral de plantão para toda a demanda. Ela ficou sentada numa cadeira de plástico no corredor, porque não havia maca disponível, e o soro foi pendurado num gancho improvisado na parede. Os banheiros estavam imundos, sem papel e sem sabonete. Quando finalmente foi atendida, o médico pediu um raio-x, mas o aparelho estava quebrado e tivemos que ir a um laboratório particular. Na volta, já de madrugada, o estacionamento estava sem iluminação e sem nenhum vigia. Exijo providências."
+  },
+  {
+    "id": "M007",
+    "data": "2026-06-09",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O terreno baldio da Rua Ipê Amarelo virou depósito de lixo e entulho. Tem sofá velho, restos de construção e sacos de lixo. O cheiro é insuportável e já apareceram ratos e escorpiões nas casas vizinhas."
+  },
+  {
+    "id": "M008",
+    "data": "2026-06-10",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do bairro São José está sem médico há mais de um mês. Chego às seis da manhã para pegar ficha e sou mandado embora sem consulta."
+  },
+  {
+    "id": "M009",
+    "data": "2026-06-11",
+    "categoria_oficial": "segurança",
+    "texto": "O ponto de ônibus em frente ao Terminal Norte está perigoso. Todo dia à noite tem assalto a trabalhadores que esperam o ônibus. Pedimos ronda da Guarda Municipal das 18h às 22h."
+  },
+  {
+    "id": "M010",
+    "data": "2026-06-12",
+    "categoria_oficial": "segurança",
+    "texto": "Um grupo de pessoas usa e vende drogas na Praça Tiradentes todas as noites. Os moradores estão com medo e ninguém mais passa por ali depois que escurece."
+  },
+  {
+    "id": "M011",
+    "data": "2026-06-13",
+    "categoria_oficial": "educação",
+    "texto": "Estou há oito meses na fila de espera por uma vaga em creche para minha filha de dois anos. Preciso trabalhar e não tenho com quem deixar a criança."
+  },
+  {
+    "id": "M012",
+    "data": "2026-06-15",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O bar da Rua Sete de Setembro coloca som altíssimo até as três da manhã em todo fim de semana. Ninguém da vizinhança consegue dormir."
+  },
+  {
+    "id": "M013",
+    "data": "2026-06-16",
+    "categoria_oficial": "educação",
+    "texto": "Os alunos da Escola Municipal Cecília Meireles ainda não receberam o kit de material escolar e os uniformes prometidos no início do ano. Muitas famílias não podem comprar."
+  },
+  {
+    "id": "M014",
+    "data": "2026-06-17",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Alguém ateia fogo no mato do terreno ao lado do conjunto habitacional quase toda tarde. A fumaça entra nas casas e as crianças com asma estão passando mal."
+  },
+  {
+    "id": "M015",
+    "data": "2026-06-18",
+    "categoria_oficial": "educação",
+    "texto": "Sou mãe de dois alunos da Escola Municipal Paulo Freire e escrevo para relatar a situação precária da escola. Quando chove, o telhado da sala do 5º ano tem tantas goteiras que as crianças precisam mudar as carteiras de lugar e os cadernos ficam molhados. As salas não têm ventilador e no verão a temperatura passa dos 35 graus, fazendo os alunos passarem mal. Desde março a turma do meu filho mais velho está sem professor de matemática e as aulas são substituídas por atividades de pintura. Os banheiros femininos estão interditados, com vasos quebrados. Além disso, o transporte escolar chega sempre atrasado e as crianças perdem a primeira aula. Pedimos uma vistoria da Secretaria de Educação."
+  },
+  {
+    "id": "M016",
+    "data": "2026-06-19",
+    "categoria_oficial": "segurança",
+    "texto": "Na Rua Pedro Álvares, em frente à creche, os carros passam em altíssima velocidade. Precisamos de uma lombada e de fiscalização antes que uma criança seja atropelada."
+  },
+  {
+    "id": "M017",
+    "data": "2026-06-20",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Asfalto todo esburacado da avenida principal, pertinho da panificadora. As motos precisam desviar das crateras e uma hora vai acontecer um acidente grave."
+  },
+  {
+    "id": "M018",
+    "data": "2026-06-22",
+    "categoria_oficial": "saúde",
+    "texto": "Meu pai foi encaminhado para o cardiologista em janeiro e até agora a consulta não foi marcada. Na regulação dizem que a fila de espera para especialista passa de oito meses."
+  },
+  {
+    "id": "M019",
+    "data": "2026-06-23",
+    "categoria_oficial": "educação",
+    "texto": "O ônibus escolar que leva as crianças da zona rural não passou a semana inteira. Meus filhos estão perdendo aula e ninguém da secretaria dá explicação."
+  },
+  {
+    "id": "M020",
+    "data": "2026-06-24",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Estão cortando árvores nativas na área de preservação às margens do Rio Claro, perto da estrada velha. Já derrubaram dezenas de árvores e parece ser para um loteamento irregular."
+  },
+  {
+    "id": "M021",
+    "data": "2026-06-25",
+    "categoria_oficial": "segurança",
+    "texto": "A casa abandonada na esquina da Rua Tamoios com a Rua Guaranis foi invadida e virou ponto de uso de drogas e de receptação de objetos roubados. Temos medo de passar na calçada."
+  },
+  {
+    "id": "M022",
+    "data": "2026-06-26",
+    "categoria_oficial": "saúde",
+    "texto": "Falta atendimento no PSF da Vila São José. Não tem doutor faz semanas e a gente volta pra casa sem ser atendido."
+  },
+  {
+    "id": "M023",
+    "data": "2026-06-27",
+    "categoria_oficial": "segurança",
+    "texto": "O semáforo do cruzamento da Av. Getúlio Vargas com a Rua Bahia está desligado há três dias. Os carros não respeitam a preferência e já houve duas batidas."
+  },
+  {
+    "id": "M024",
+    "data": "2026-06-29",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Venho denunciar a situação do córrego Água Limpa, que passa atrás do bairro Santa Rita. Há meses algumas casas e um lava-jato fazem ligação clandestina de esgoto direto no córrego, e a água ficou escura e espumante. O mau cheiro é tão forte que à tarde não dá para ficar no quintal. Na semana passada apareceram muitos peixes mortos boiando perto da ponte. As margens estão cheias de garrafas pet, pneus e sacos de lixo jogados por quem passa de carro, e com a água parada a quantidade de mosquitos aumentou muito; dois vizinhos já tiveram dengue. Quando chove forte, o córrego transborda e a água suja invade as ruas mais baixas. Pedimos fiscalização ambiental, limpeza das margens e punição para os responsáveis."
+  },
+  {
+    "id": "M025",
+    "data": "2026-07-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Tem um buraco na Rua das Flores, no Jardim Primavera, perto da escola estadual. A prefeitura tapou com terra no mês passado, mas com a chuva o buraco voltou ainda maior."
+  },
+  {
+    "id": "M026",
+    "data": "2026-07-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A iluminação pública da Rua das Acácias não funciona há duas semanas. À noite fica um breu total e já teve gente assaltada na frente de casa."
+  },
+  {
+    "id": "M027",
+    "data": "2026-07-03",
+    "categoria_oficial": "saúde",
+    "texto": "Fui três vezes ao posto do Parque das Nações para vacinar meu filho contra a gripe e sempre dizem que a vacina acabou. Quando vai chegar nova remessa?"
+  },
+  {
+    "id": "M028",
+    "data": "2026-07-06",
+    "categoria_oficial": "educação",
+    "texto": "O laboratório de informática da Escola Municipal Rui Barbosa está fechado há um ano e a escola não tem internet. Os alunos não conseguem fazer as pesquisas pedidas pelos professores."
+  },
+  {
+    "id": "M029",
+    "data": "2026-07-07",
+    "categoria_oficial": "segurança",
+    "texto": "Toda noite tem gente consumindo e traficando entorpecentes na praça Tiradentes. A vizinhança está apavorada e não deixa mais as crianças brincarem lá."
+  },
+  {
+    "id": "M030",
+    "data": "2026-07-08",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Caminhões despejam entulho de obra e restos de poda na área verde do Parque Ecológico durante a madrugada. A vegetação nativa está sendo soterrada."
+  },
+  {
+    "id": "M031",
+    "data": "2026-07-09",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Lâmpada queimada na praça da Matriz. À noite não se enxerga nada e os idosos que caminhavam ali deixaram de ir."
+  },
+  {
+    "id": "M032",
+    "data": "2026-07-10",
+    "categoria_oficial": "segurança",
+    "texto": "Estão furtando os cabos de energia e de telefone da Rua Jacarandá quase toda semana. Além de ficarmos sem luz e sem internet, os ladrões arrombaram dois carros estacionados."
+  },
+  {
+    "id": "M033",
+    "data": "2026-07-12",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Todo sábado e domingo o bar da Sete de Setembro liga caixas de som no volume máximo e vai até de madrugada. É perturbação do sossego, idosos e bebês não conseguem descansar."
+  },
+  {
+    "id": "M034",
+    "data": "2026-07-14",
+    "categoria_oficial": "segurança",
+    "texto": "Moro no bairro Morada do Sol há quinze anos e nunca vi a violência tão alta. Só no último mês foram roubadas quatro motos na nossa rua, duas delas de entregadores que estavam trabalhando. Uma vizinha foi assaltada à mão armada às sete da noite, voltando do trabalho, e levaram a bolsa e o celular. A viatura da polícia quase nunca passa aqui e, quando ligamos para o 190, demora mais de uma hora. Várias ruas estão com os postes apagados, o que facilita a ação dos bandidos. Os comerciantes começaram a fechar as portas mais cedo e os pais têm medo de deixar os filhos irem sozinhos para a escola. Pedimos patrulhamento regular, câmeras de monitoramento e uma base comunitária da Guarda Municipal no bairro."
+  },
+  {
+    "id": "M035",
+    "data": "2026-07-15",
+    "categoria_oficial": "educação",
+    "texto": "Meu filho é autista e tem direito a um profissional de apoio em sala, mas a Escola Municipal Anísio Teixeira diz que não há cuidador disponível. Ele não consegue acompanhar as aulas."
+  },
+  {
+    "id": "M036",
+    "data": "2026-07-17",
+    "categoria_oficial": "saúde",
+    "texto": "Liguei para o SAMU quando meu vizinho desmaiou na rua e a ambulância demorou quase duas horas para chegar. Ele poderia ter morrido esperando."
+  },
+  {
+    "id": "M037",
+    "data": "2026-07-18",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma casa abandonada na Rua Aroeira tem piscina com água parada e pneus acumulados no quintal. É um criadouro do mosquito da dengue e ninguém faz nada."
+  },
+  {
+    "id": "M038",
+    "data": "2026-07-20",
+    "categoria_oficial": "educação",
+    "texto": "Faz cinco dias que o transporte escolar não aparece no Sítio Boa Vista e as crianças ficam sem ir para a escola. A secretaria não atende o telefone."
+  },
+  {
+    "id": "M039",
+    "data": "2026-07-22",
+    "categoria_oficial": "saúde",
+    "texto": "Fui tratada com grosseria pela recepcionista do Hospital Municipal. Ela gritou comigo na frente de todos quando perguntei quanto tempo ainda faltava para meu atendimento."
+  },
+  {
+    "id": "M040",
+    "data": "2026-07-25",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A obra de drenagem que a prefeitura começou na Rua Marechal Deodoro em fevereiro está abandonada. Abriram uma vala enorme no meio da pista, cercaram com fitas que já foram arrancadas e desde abril não aparece nenhum operário. A rua está interditada há meses, os ônibus foram desviados e os moradores idosos precisam andar três quarteirões até o ponto. O asfalto ao redor da vala cedeu e formou vários buracos, e à noite não há nenhuma sinalização luminosa, então carros já caíram na valeta. A terra acumulada vira lama quando chove e entope os bueiros das ruas vizinhas. Os comerciantes da rua dizem que o movimento caiu pela metade. Queremos saber quando a obra será retomada e concluída."
+  }
+]
